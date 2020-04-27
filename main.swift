@@ -8,7 +8,7 @@
 
 import Foundation
 
-// Fonction permettant de demander à l'utilisateur d'entrer un nombre et de le convertir en entier
+// Function to let user enter a value and cast it into integer
 func input() -> Int {
     let strData = readLine();
     
